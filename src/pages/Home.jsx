@@ -29,7 +29,7 @@ const Home = () => {
 
       {/* Hero Section */}
       <div className="flex-grow flex flex-col justify-center items-center text-center px-6">
-        <h2 className="text-4xl font-bold text-blue-400">Portfolio</h2>
+        <h2 className="text-4xl font-bold text-blue-400">Akhilesh Vishwakarma</h2>
         <p className="mt-4 text-lg text-gray-300">
           Web Developer | React | Firebase | Tailwind CSS
         </p>
