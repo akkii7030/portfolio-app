@@ -27,7 +27,7 @@ const Navbar = () => {
             : "bg-gradient-to-r from-purple-900 via-purple-700 to-purple-500"
         }`}
       >
-        <h1 className="text-xl font-bold text-red-300">Akhilesh Vishwakarma</h1>
+        <h1 className="text-xl font-bold text-red-300">Portfolio</h1>
 
         <div className="hidden md:flex space-x-6">
           <Link className="text-lg font-semibold hover:text-red-400 transition" to="/">
