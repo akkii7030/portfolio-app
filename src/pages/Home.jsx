@@ -6,7 +6,6 @@ const Home = () => {
       {/* Navbar */}
       <nav className="bg-gray-800 p-4 shadow-lg">
         <div className="container mx-auto flex justify-between items-center">
-          <h1 className="text-2xl font-bold text-blue-400">My Portfolio</h1>
           <div>
             <a
               className="text-blue-400 mx-3 hover:underline"
@@ -30,7 +29,7 @@ const Home = () => {
 
       {/* Hero Section */}
       <div className="flex-grow flex flex-col justify-center items-center text-center px-6">
-        <h2 className="text-4xl font-bold text-blue-400">Akhilesh Vishwakarma</h2>
+        <h2 className="text-4xl font-bold text-blue-400">Portfolio</h2>
         <p className="mt-4 text-lg text-gray-300">
           Web Developer | React | Firebase | Tailwind CSS
         </p>
@@ -44,8 +43,8 @@ const Home = () => {
             with modern UI/UX principles using React and Tailwind CSS.
           </p>
         </div>
-        </div>
       </div>
+    </div>
   );
 };
 
